@@ -75,7 +75,7 @@ your_password
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/ahireakash09/Hibernate.git
+git clone https://github.com/ahireakash09/HibProj.git
 ```
 
 2. Open the project in IntelliJ IDEA.
